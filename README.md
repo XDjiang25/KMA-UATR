@@ -17,4 +17,3 @@ KMA-UATR: Knowledge-Guided Multi-modal Underwater Acoustic Target Recognition wi
 
 <br>
 
-This is the official repository for **AdaMamba**, a novel framework that endogenizes adaptive and context-aware frequency analysis within the Mamba state-space update process.
